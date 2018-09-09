@@ -1,0 +1,61 @@
+<!DOCTYPE>
+<html>
+
+<title>Form</title>
+
+<h1> Plant for Pakistan Online Registration</h1>
+
+<h2>
+Registration details:
+</h2>
+
+<body>
+
+<form>
+
+First name:<br>
+<input  type="text" name="firstname" >
+<br><br>
+
+Last name:<br>
+<input type="text" name="secondname" >
+<br><br>
+
+Adress:<br>
+<input type="text" name="adress" size="40"> 
+<br><br>
+
+City:<br>
+<input type="text" name="city"> 
+<br><br>
+
+Mobile Number:<br>
+<input type="text" name="mobilenumber'>
+<br><br>
+
+Home phone number:<br>
+<input type="text" name="homephonenumber">
+<br><br>
+  
+Your CNIC:<br>
+<input type="text" name="yourcnic">
+<br><br>
+
+Your Email ID:<br>
+<input type="text name="youremailid">
+<br><br>
+
+Your Password:<br>
+<input type="text" name="yourpassword">
+<br><br>
+
+Click here for submission:<br>
+<input name="clickhereforsubmission" type="submit" value="&nbsp'Submit" type="submit">
+<br><br>
+
+ 
+<p> Note:After registration, seeds will be delivered to you at at your home adress for plantation.<br>
+Thank you for joining the national cause of <b>Plant For Pakistan</b>.</p>
+</form>
+</body>
+</html
